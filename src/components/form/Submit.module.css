@@ -1,0 +1,22 @@
+
+.submit {
+    background-color: #ff9f15;
+    color: #FFF;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 0;
+    padding: 10px 15px;
+    font-size: 1em;
+    margin: 10px 0 20px;
+  }
+  
+  .submit:hover {
+    background-color: #ffc115;
+    color: #FFF;
+  }
+
+  .submit[disabled] {
+    background-color: #AAA;
+  }
